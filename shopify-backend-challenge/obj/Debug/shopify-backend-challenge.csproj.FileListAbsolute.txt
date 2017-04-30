@@ -1,0 +1,8 @@
+G:\Dropbox\programming\shopify-backend-challenge\shopify-backend-challenge\bin\Debug\shopify-backend-challenge.exe.config
+G:\Dropbox\programming\shopify-backend-challenge\shopify-backend-challenge\bin\Debug\shopify-backend-challenge.exe
+G:\Dropbox\programming\shopify-backend-challenge\shopify-backend-challenge\bin\Debug\shopify-backend-challenge.pdb
+G:\Dropbox\programming\shopify-backend-challenge\shopify-backend-challenge\bin\Debug\Newtonsoft.Json.dll
+G:\Dropbox\programming\shopify-backend-challenge\shopify-backend-challenge\bin\Debug\Newtonsoft.Json.xml
+G:\Dropbox\programming\shopify-backend-challenge\shopify-backend-challenge\obj\Debug\shopify-backend-challenge.csprojResolveAssemblyReference.cache
+G:\Dropbox\programming\shopify-backend-challenge\shopify-backend-challenge\obj\Debug\shopify-backend-challenge.exe
+G:\Dropbox\programming\shopify-backend-challenge\shopify-backend-challenge\obj\Debug\shopify-backend-challenge.pdb
